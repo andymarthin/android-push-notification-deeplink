@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "448141877582",
+    "firebase_url": "https://deeplink-a66bd.firebaseio.com",
+    "project_id": "deeplink-a66bd",
+    "storage_bucket": "deeplink-a66bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448141877582:android:5540659646338eea",
+        "android_client_info": {
+          "package_name": "id.web.marthin.pushnotificationdeeplink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448141877582-olm7mfiua6bu7ak50ltdcb36kf96i1ep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.web.marthin.pushnotificationdeeplink",
+            "certificate_hash": "46811e9bcaf34d1aef48a0e528f9845b7ea39dcc"
+          }
+        },
+        {
+          "client_id": "448141877582-kscr0au1g7hlivfrvofrun9hikgqt48o.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "448141877582-kscr0au1g7hlivfrvofrun9hikgqt48o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmW1yOhMLYR1xUca0O7Zl7Z2G3ovC-vI8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448141877582-kscr0au1g7hlivfrvofrun9hikgqt48o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
